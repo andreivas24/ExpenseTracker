@@ -57,3 +57,19 @@ Before you begin, ensure you have met the following requirements:
    ng serve
    
 6. Navigate to http://localhost:4200 to see the application in action.
+
+## App Preview:
+
+![Dashboard](https://github.com/user-attachments/assets/475267e8-b47f-4f51-9904-22127213060e)
+
+![PostNewIncome](https://github.com/user-attachments/assets/b2500a34-9412-461d-876c-69a022ce5319)
+
+![UpdateIncome](https://github.com/user-attachments/assets/8c96399e-62a3-4b60-ad3f-c2bffc0e9408)
+
+![PostNewExpense](https://github.com/user-attachments/assets/5e986791-7a9e-4c76-9b29-58da0b62e627)
+
+![UpdateExpense](https://github.com/user-attachments/assets/bc3fadfd-19f8-45e4-93b4-8d0d1df134c1)
+
+
+
+
