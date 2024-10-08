@@ -35,7 +35,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/andreivas24/ExpenseTracker.git
    cd expense-tracker
 
 2. Install dependencies for both frontend and backend:
