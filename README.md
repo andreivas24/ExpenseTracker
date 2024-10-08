@@ -39,8 +39,10 @@ Before you begin, ensure you have met the following requirements:
    cd expense-tracker
 
 2. Install dependencies for both frontend and backend:
+   ```bash
    npm install
 3. Set up the MySQL database:
+   ```bash
    DB_HOST=localhost
    DB_USER=root
    DB_PASS=yourpassword
@@ -51,6 +53,7 @@ Before you begin, ensure you have met the following requirements:
    - Run the SQL scripts provided in /database/setup.sql to create the necessary tables.
    
 5. Start the development server:
+   ```bash
    ng serve
    
 6. Navigate to http://localhost:4200 to see the application in action.
